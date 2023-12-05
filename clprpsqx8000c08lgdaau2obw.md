@@ -3,7 +3,7 @@ title: "Day 31/90 : Launching your First Kubernetes Cluster with Nginx running"
 datePublished: Tue Dec 05 2023 02:22:02 GMT+0000 (Coordinated Universal Time)
 cuid: clprpsqx8000c08lgdaau2obw
 slug: day-3190-launching-your-first-kubernetes-cluster-with-nginx-running
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701742853628/a2dec06f-16fc-401d-9a87-1e54ddbc3e7c.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701743014533/2356bd01-c59a-4865-9717-b6aa406d5769.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1701742912549/ea3de62e-fd53-481a-aed2-9393ad057da4.jpeg
 tags: kubernetes, devops, minikube, kubeweekchallenge
 
